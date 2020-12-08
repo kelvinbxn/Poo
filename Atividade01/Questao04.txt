@@ -1,0 +1,5 @@
+Resposta: O resultado apresentado vai ser>
+1
+1
+1
+Pois no final de cada não tem tem o Break;

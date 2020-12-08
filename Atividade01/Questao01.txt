@@ -1,0 +1,2 @@
+javac Avalicao.java
+java Avalicao

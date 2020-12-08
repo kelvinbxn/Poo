@@ -1,0 +1,9 @@
+public class Aplicacao {
+public static void main {
+int contador;
+System.out.println(contador++);
+}
+}
+
+Respotra: Irá dar erro, pois a variavel não foi instaciada para
+poder receber uma adição.

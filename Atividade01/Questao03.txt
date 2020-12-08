@@ -1,0 +1,4 @@
+Resposta: O resultado apresentado vai ser 9, pois há na primeira condição
+a váriavel a já não é maior que 11, então já passa para o outro operador
+que no caso não tem condicional, pois trata-se de um else, então o resultado
+vai ser a - b que no caso é 9 - 0 = 9.
