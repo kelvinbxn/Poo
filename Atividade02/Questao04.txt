@@ -1,4 +1,0 @@
-Como é um metodo que acumula um valor, deveria reportar duble e não void:
-double x(double valor) {
-    return valor = valor + valor;
-}

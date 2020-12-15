@@ -1,1 +1,0 @@
-Ira dar erro, pois a classe hotel não socilitou nenhum parametro e sim a adcionarReserva()

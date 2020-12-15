@@ -1,2 +1,0 @@
-O resultado é 0, pois o atributo classe teste não foi inicializada
-então o java automaticamente ira atribuir um valor para ela.
